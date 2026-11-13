@@ -40,5 +40,8 @@
   "footer_qr_width_mm": 20,
   "footer_qr_original_aspect_preserved": true,
   "footer_extra_white_frame_removed": true,
-  "footer_reference_text_and_icons_are_raster": true
+  "footer_reference_text_and_icons_are_raster": true,
+  "footer_qr_caption": "SCAN MORE",
+  "footer_qr_caption_position": "centered below QR",
+  "footer_old_right_caption_removed": true
 }
