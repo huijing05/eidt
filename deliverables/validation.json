@@ -1,19 +1,29 @@
 {
-  "page_mm": [
-    209.99999406602646,
-    297.0000023735894
+  "a4_page_mm": [
+    210,
+    297
   ],
-  "png_pixels": [
+  "a4_png_pixels": [
     2480,
     3508
   ],
-  "png_dpi": [
-    300,
-    300
+  "png_dpi": 300,
+  "editable_services_banner": true,
+  "intro_and_values_text_color": "dark navy",
+  "blank_middle_rgb": [
+    255,
+    255,
+    255
   ],
-  "qr_decoded": [
-    "https://www.jcmarine.com.my/"
+  "footer_separate": true,
+  "footer_mm": [
+    210,
+    40
   ],
-  "qr_original_pdf_embedded": true,
-  "blank_middle_no_service_cards": true
+  "footer_png_pixels": [
+    2480,
+    472
+  ],
+  "original_qr_embedded_in_footer": true,
+  "footer_qr_decoded": "https://www.jcmarine.com.my/"
 }
