@@ -11,8 +11,10 @@
     4961,
     7016
   ],
+  "original_logo_pdf_embedded_as_vector": true,
+  "text_color": "#06143C",
   "editable_vector_text": true,
-  "vector_services_banner": true,
+  "fonts_matched_from_reference_not_original_font_files": true,
   "below_banner_rgb": [
     255,
     255,
