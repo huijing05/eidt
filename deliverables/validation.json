@@ -7,23 +7,10 @@
     2480,
     3508
   ],
-  "png_dpi": 300,
-  "editable_services_banner": true,
-  "intro_and_values_text_color": "dark navy",
-  "blank_middle_rgb": [
-    255,
-    255,
-    255
-  ],
+  "dpi": 300,
+  "background_single_continuous_image": true,
+  "separate_white_panel_added": false,
   "footer_separate": true,
-  "footer_mm": [
-    210,
-    40
-  ],
-  "footer_png_pixels": [
-    2480,
-    472
-  ],
-  "original_qr_embedded_in_footer": true,
+  "a4_pdf_raster_background": true,
   "footer_qr_decoded": "https://www.jcmarine.com.my/"
 }
