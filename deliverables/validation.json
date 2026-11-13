@@ -23,5 +23,22 @@
   "sea_texture_below_banner": false,
   "photos_are_raster": true,
   "footer_separate": true,
-  "footer_qr_decoded": "https://www.jcmarine.com.my/"
+  "footer_qr_decoded": "https://www.jcmarine.com.my/",
+  "footer_page_mm": [
+    210,
+    28
+  ],
+  "footer_png_300dpi_pixels": [
+    2480,
+    331
+  ],
+  "footer_png_600dpi_pixels": [
+    4961,
+    661
+  ],
+  "footer_original_reference_icons_preserved": true,
+  "footer_qr_width_mm": 20,
+  "footer_qr_original_aspect_preserved": true,
+  "footer_extra_white_frame_removed": true,
+  "footer_reference_text_and_icons_are_raster": true
 }
